@@ -7,6 +7,8 @@ LIST OF EXAMPLES:
 1. freertos_ex1_c28x_port_val
 2. freertos_ex2_led_blinky
 
+EXAMPLE DESCRIPTION:
+
 1. freertos_ex1_c28x_port_val Demo
 
 This example implements the standard test demos detailed in following link:https://github.com/FreeRTOS/FreeRTOS/blob/main/FreeRTOS/Demo/ThirdParty/Template/README.md
